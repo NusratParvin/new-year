@@ -49,15 +49,16 @@ header{
 
 /***********Header styling***********/
 main{
-    width: 80%;
+    width: 85%;
     margin: 0 auto;;
 }
 
 /***********About me styling***********/
 
-.about-me{
+.about-me{ 
     margin: 0 auto;
-    width:80%;
+    width:90%;
+    height: 750px;
     margin-top:120px;
     display: flex;
     gap: 90px;
@@ -94,7 +95,7 @@ main{
 /***********My plans styling***********/
 
 .my-plans{ 
-    margin: 0 5%;
+    margin: 0px 5%; 
     margin-top: 120px;
 }
 
@@ -132,17 +133,19 @@ main{
 /***********Contact styling***********/
 
 .contact{ 
-    margin: 100px;
+    margin: 100px 5%; 
+    margin-top: 120px;
+    
     position: relative;
     height: 300px;
     background-image: url(../images/watch.png);
     background-repeat: no-repeat;
-    width: 90%;
+    
     background-size:100% 100%;
     border-radius: 10px;
 }
 
-.contact-info{
+.contact-info{ 
     width: 40%; 
     margin-top: 60px ;
     margin-left: 5%; 
@@ -156,6 +159,11 @@ main{
     text-align: left;
     color:#FFFFFF; 
     
+}
+
+.contact img{
+    width: 100%;
+    height: 100%;
 }
 
 
