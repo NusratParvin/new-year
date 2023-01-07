@@ -55,18 +55,19 @@ main{
 
 /***********About me styling***********/
 
-.about-me{ 
+.about-me{ border:1px solid black;
     margin: 0 auto;
     width:90%;
     height: 750px;
     margin-top:120px;
-    display: flex;
-    gap: 90px;
+    display: flex; justify-content: space-around;
+    gap: 90px; align-items: center;
 }
 
-.my-words{ 
+.my-words{ border:1px solid black;
     margin-top: 200px;
     padding: 30px;
+    width: 450px;
 
 }
 
