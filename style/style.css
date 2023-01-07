@@ -62,15 +62,15 @@ main{
     margin-top:80px;
     display: flex; 
     justify-content: space-around;
-    gap: 50px; 
+    gap: 10px; 
 
 }
 .about-me img{width: 50%;border:1px solid black;}
 
-.my-words{ border:1px solid black;
+.my-words{ border:1px solid red;
     margin:5%; 
     padding: 10px;
-    width: 65%;
+    
 
 }
 
