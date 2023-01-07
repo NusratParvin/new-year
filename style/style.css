@@ -62,10 +62,10 @@ main{
     margin-top:80px;
     display: flex; 
     justify-content: space-around;
-    gap: 90px; 
+    gap: 50px; 
 
 }
-.about-me img{width: 50%;}
+.about-me img{width: 50%;border:1px solid black;}
 
 .my-words{ border:1px solid black;
     margin:5%; 
