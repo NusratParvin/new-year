@@ -48,6 +48,7 @@ header{
 }
 
 /***********Header styling***********/
+
 main{
     width: 85%;
     margin: 0 auto;
@@ -55,7 +56,7 @@ main{
 
 /***********About me styling***********/
 
-.about-me{ border:1px solid black;
+.about-me{
     margin: 0 auto;
     width:90%;
     height: 730px;
@@ -65,8 +66,9 @@ main{
     gap: 20px; 
 
 }
+
 .about-me img{
-    width: 50%;border:1px solid black;
+    width: 50%;
 }
 
 .my-words{ border:1px solid red;
