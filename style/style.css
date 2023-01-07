@@ -9,21 +9,21 @@ header{
     background-image: url(../images/banner/banner3.png);
     background-repeat: no-repeat;
     margin: 0;
-    height: 810px;
+    height: 710px;
     background-size:100% 100%;
     
 }
 
 .banner{
- width: 480px;
+ width: 35%;
  text-align: right;
  float: right;
- margin-right: 10%;
+ margin-right: 8%;
  color: #FFFFFF;
 }
 
 .banner-title{
-    margin-top: 35%;
+    margin-top: 15%;
     color: #FFFFFF;
     font-size: 65px;
     font-weight: 700;
