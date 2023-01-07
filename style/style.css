@@ -50,7 +50,7 @@ header{
 /***********Header styling***********/
 main{
     width: 85%;
-    margin: 0 auto;;
+    margin: 0 auto;
 }
 
 /***********About me styling***********/
@@ -58,15 +58,17 @@ main{
 .about-me{ border:1px solid black;
     margin: 0 auto;
     width:90%;
-    height: 750px;
-    margin-top:120px;
-    display: flex; justify-content: space-around;
-    gap: 90px; align-items: center;
+    height: 730px;
+    margin-top:80px;
+    display: flex; 
+    justify-content: space-around;
+    gap: 90px; 
+
 }
 
 .my-words{ border:1px solid black;
-    margin-top: 200px;
-    padding: 30px;
+    margin-top:100px; 
+    padding: 10px;
     width: 40%;
 
 }
