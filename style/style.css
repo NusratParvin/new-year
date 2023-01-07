@@ -59,7 +59,7 @@ main{
 .about-me{
     margin: 0 auto;
     width:90%;
-    height: 730px;
+    height: 700px;
     margin-top:80px;
     display: flex; 
     justify-content: space-around;
@@ -71,7 +71,7 @@ main{
     width: 50%;
 }
 
-.my-words{ border:1px solid red;
+.my-words{ 
     margin:5%; 
     padding: 10px;
 }
